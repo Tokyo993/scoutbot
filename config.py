@@ -1,3 +1,3 @@
-BOT_TOKEN = "8088065279:AAEwEB9PahXYUMNVTWwTRu1Rn3FKl49ThYM"
-REPORT_CHAT_ID = -4960875523  # ID чата руководителя
+BOT_TOKEN = ""
+REPORT_CHAT_ID =   # ID чата руководителя
 TIMEZONE_OFFSET = 3  # Для Киева (UTC+3)
